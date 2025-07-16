@@ -1,0 +1,20 @@
+{
+    "RDP":
+    {
+        "ip": "127.0.0.1",
+        "port": "3389",
+        "user": "rdp",
+        "password": "rdp123"
+    },
+
+    "vbox": {
+        "name": "win10"
+    },
+
+    "xfreerdp_cmd": [
+        "flatpak",
+        "run",
+        "--command=xfreerdp",
+        "com.freerdp.FreeRDP"
+    ]
+}

@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Microsoft Word (Winapps_vbox Remote)
+Exec=winapps_launch WINWORD.exe %f
+Terminal=false
+Type=Application
+MimeType=application/msword;application/vnd.openxmlformats-officedocument.wordprocessingml.document;application/vnd.openxmlformats-officedocument.wordprocessingml.template;application/vnd.ms-word.document.macroEnabled.12;application/vnd.ms-word.template.macroEnabled.12;
+Icon=ms-word.svg
+StartupNotify=true

@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Microsoft Excel (Winapps_vbox Remote)
+Exec=winapps_launch EXCEL.exe %f
+Terminal=false
+Type=Application
+MimeType=application/vnd.ms-excel;application/vnd.openxmlformats-officedocument.spreadsheetml.sheet;application/vnd.openxmlformats-officedocument.spreadsheetml.template;application/vnd.ms-excel.sheet.macroEnabled.12;application/vnd.ms-excel.template.macroEnabled.12;application/vnd.ms-excel.addin.macroEnabled.12;application/vnd.ms-excel.sheet.binary.macroEnabled.12;
+Icon=ms-excel.svg
+StartupNotify=true
